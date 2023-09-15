@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Check out my short video resume on YouTube: https://www.youtube.com/watch?v=aXkq9kWTUlY
+Take a peek at my quick video hello on YouTube: https://www.youtube.com/watch?v=aXkq9kWTUlY
 
-Contact me on LinkedIn: https://www.linkedin.com/in/k-tulupov/
+Hit me up on LinkedIn: https://www.linkedin.com/in/tulup/
 
-Please note that all projects in the profile were done before I got my first job as a developer.
+Here's my resume: https://drive.google.com/file/d/13q-usO-dSKYSBTKQqvMn-hfpUtYWCFvH/view
 
-I'll be happy to complete an interesting test task, but only if you don't mind me publishing it in my profile (without mentioning your company).
+Just so you know, I did all these projects in my profile before I even landed my first gig as a developer.
+
+I'd totally be up for taking on a cool test task, but only if it's cool with you that I share it on my profile (without dropping your company's name).
