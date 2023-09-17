@@ -4,7 +4,7 @@ Take a peek at my quick video hello on YouTube: https://www.youtube.com/watch?v=
 
 Hit me up on LinkedIn: https://www.linkedin.com/in/tulup/
 
-Here's my resume: https://drive.google.com/file/d/13uddI442BIfqDprwSKGWrM38fY3Wn4tt/view
+Here's my resume: https://drive.google.com/file/d/13vMc8080zHq1gTkSMPrHaWlb1s0LMK8-/view
 
 Just so you know, I did all these projects in my profile before I even landed my first gig as a developer.
 
