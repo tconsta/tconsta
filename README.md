@@ -6,4 +6,4 @@ I'd totally be up for taking on a cool test task, but only if it's cool with you
 
 Hit me up on LinkedIn: https://www.linkedin.com/in/tulup/
 
-Here's my resume: https://drive.google.com/file/d/162ZWXS3aw41SwkSgb_l0j2rdca6Yr1So/view
+Here's my resume: https://drive.google.com/file/d/13jkRG_ILcZWIjZlUApBOqdRmoXr5lfSJ/view
