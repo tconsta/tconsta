@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Just so you know, I did all these projects in my profile before I even landed my first gig as a developer.
-
-I'd totally be up for taking on a cool test task, but only if it's cool with you that I share it on my profile (without dropping your company's name).
-
 Hit me up on LinkedIn: https://www.linkedin.com/in/tulup/
 
 Here's my resume: https://drive.google.com/file/d/13jkRG_ILcZWIjZlUApBOqdRmoXr5lfSJ/view
