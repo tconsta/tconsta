@@ -1,3 +1,1 @@
-### I'm open to work right now!
-
-Hit me up on LinkedIn: https://www.linkedin.com/in/tulup/
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_green&show_icons=true)
